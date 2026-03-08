@@ -1,28 +1,69 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6C5CE7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FD79A8;stop-opacity:1" />
+    <!-- Dark background -->
+    <rect id="bg" width="1200" height="280" fill="#0d1117"/>
+    
+    <!-- Subtle grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#21262d" stroke-width="1"/>
+    </pattern>
+    
+    <!-- Accent gradient -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#c084fc;stop-opacity:0.4"/>
     </linearGradient>
+    
+    <!-- Glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
-
-  <rect width="1200" height="300" fill="url(#grad)" />
-
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Segoe UI, sans-serif"
-        font-size="48"
-        fill="white"
-        font-weight="bold">
-        Bas | icedeyes12
+  
+  <!-- Background -->
+  <rect width="1200" height="280" fill="#0d1117"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  
+  <!-- Terminal-style line decoration -->
+  <line x1="60" y1="240" x2="1140" y2="240" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Accent bar -->
+  <rect x="60" y="60" width="3" height="160" fill="#a78bfa"/>
+  
+  <!-- Main title -->
+  <text x="90" y="120" 
+        font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="52"
+        fill="#f0f6fc"
+        font-weight="500"
+        letter-spacing="-0.02em">
+    icedeyes12
   </text>
-
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Segoe UI, sans-serif"
-        font-size="20"
-        fill="white"
-        opacity="0.85">
-        Builder of living systems
+  
+  <!-- Subtitle -->
+  <text x="90" y="165"
+        font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="16"
+        fill="#8b949e"
+        letter-spacing="0.05em">
+    systems · tools · experiments
   </text>
-
+  
+  <!-- Small accent text -->
+  <text x="90" y="220"
+        font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="12"
+        fill="#a78bfa"
+        opacity="0.7">
+    ~/dev/presence
+  </text>
+  
+  <!-- Corner decorations -->
+  <circle cx="1140" cy="70" r="3" fill="#a78bfa" opacity="0.5"/>
+  <circle cx="1160" cy="70" r="2" fill="#a78bfa" opacity="0.3"/>
+  <circle cx="1150" cy="90" r="2" fill="#a78bfa" opacity="0.2"/>
 </svg>
