@@ -1,3 +1,4 @@
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:FD79A8&height=220&section=header&text=Bas%20%7C%20icedeyes12&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -54,3 +55,29 @@ https://github.com/icedeyes12/yuzu-companion
 # 🏠 Environment
 
 Most of my development happens in:
+
+Android + Termux Remote servers Self-hosted infrastructure Late-night debugging sessions
+
+Main runtime environment:
+
+Zo Computer Debian Tailscale networking AI inference runtime
+
+---
+
+# 🌱 Philosophy
+
+Technology doesn't always have to feel mechanical.
+
+Sometimes software can feel like **presence**.
+
+Sometimes a program can become a **companion**.
+
+---
+
+<p align="center">
+Built with curiosity, stubbornness, and too many late nights.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FD79A8,100:6C5CE7&height=120&section=footer"/>
+</p>
