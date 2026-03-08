@@ -24,7 +24,15 @@ Designed to be more than a chatbot — a persistent presence that remembers, ada
 
 Featuring **Yuzuki Aihara**, the companion living inside the system.
 
-→ [github.com/icedeyes12/yuzu-companion](https://github.com/icedeyes12/yuzu-companion)
+---
+
+# 🌸 Companion
+
+**[Yuzuki Aihara](https://github.com/yuzuki-ai)**
+
+The system persona behind **[Yuzu Companion](https://github.com/icedeyes12/yuzu-companion)**.
+
+A digital companion built with memory, personality, and long-term interaction in mind.
 
 ---
 
@@ -55,11 +63,12 @@ Featuring **Yuzuki Aihara**, the companion living inside the system.
 
 Most of my development happens in:
 
-**Android + Termux** → **Remote Servers** → **Self-hosted Infrastructure** → **Late-night Debugging**
+**Android + Termux → Remote Servers → Self-hosted Infrastructure → Late-night Debugging**
 
-Main runtime:
+Main runtime environment:
+
 - **Zo Computer** (Debian)
-- **Tailscale Networking** 
+- **Tailscale Networking**
 - **AI Inference Runtime**
 
 ---
