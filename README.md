@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+I'm+Bani+Baskara;System+Tinkerer;AI+Agent+Builder;Linux+Terminal+Enjoyer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+I'm+Bani+Baskara;System+Tinkerer;AI+Agent+Builder;Ternak+Lele+Enjoyer" />
 </p>
 
 ---
