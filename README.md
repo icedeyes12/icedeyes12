@@ -75,7 +75,7 @@ Still evolving.
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=icedeyes12&theme=tokyo-night&hide_border=true"/></p>
 ---
 
-🐍 Contribution Snake
+🐍 tit it
 
 <p align="center"><img src="https://raw.githubusercontent.com/icedeyes12/icedeyes12/output/github-contribution-grid-snake.svg" /></p>
 ---
