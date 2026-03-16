@@ -1,42 +1,85 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="icedeyes12"/>
-</p>
+Hey 
+
+I'm Bani Baskara
+
+A curious builder who enjoys exploring how systems actually work under the hood.
+Most of my projects start as experiments and slowly evolve into tools.
 
 ---
 
-## Systems
+ Things I Work With
 
-Building minimal infrastructure that feels present. Current focus:
+- AI assistants & agent systems
+- Python backend development
+- Linux environments
+- LLM tooling & embeddings
+- Automation and small infrastructure experiments
 
-- **AI runtime architecture** — local-first inference, memory systems
-- **Self-hosted tooling** — Termux-to-server pipelines
-- **Companion systems** — persistent identity layers
-
-Primary environment: Zo Computer (Debian) + Tailscale mesh
-
----
-
-## Active
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [yuzu-companion](https://github.com/icedeyes12/yuzu-companion) | Memory-driven companion system (v1) | Public |
-| [yuzu-v2](https://github.com/icedeyes12/yuzu-v2) | FastAPI rewrite with clean architecture | Private (WIP) |
-
-System identity: [yuzuki-ai](https://github.com/yuzuki-ai)
+Sometimes I build things just to understand them better.
 
 ---
 
-## Stack
+ Tech Stack
 
-**v1 (Flask):** Python · SQLAlchemy · ChaCha20-Poly1305 · Rich TUI · Jinja2
+Languages
 
-**v2 (FastAPI):** FastAPI · psycopg2 · pgvector · ONNX Runtime · bcrypt · WebSocket
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+"Bash" (https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
 
-**Platform:** Termux · Debian · Zo Computer · Tailscale
+Tools
+
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"HuggingFace" (https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-<p align="center">
-  <sub>developer → <a href="https://github.com/icedeyes12/yuzu-companion">yuzu-companion</a> / <a href="https://github.com/icedeyes12/yuzu-v2">yuzu-v2</a> → <a href="https://github.com/yuzuki-ai">yuzuki-ai</a></sub>
-</p>
+Current Focus
+
+Yuzu Companion
+
+An experimental AI companion system focused on:
+
+- tool-driven architecture
+- memory systems
+- local + remote model support
+- extensible agent runtime
+
+Still evolving.
+
+---
+
+ GitHub Stats
+
+"Bani's GitHub stats" (https://github-readme-stats.vercel.app/api?username=icedeyes12&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=icedeyes12&layout=compact&theme=tokyonight)
+
+---
+
+ Things I Often Experiment With
+
+- reverse SSH tunnels
+- self-hosted AI tooling
+- hybrid retrieval (dense + sparse embeddings)
+- local model deployment
+
+Half research, half curiosity.
+
+---
+
+Contact
+
+GitHub: https://github.com/icedeyes12
+Email: banibaskara@gmail.com
+
+---
+
+Small Note
+
+Most of my repositories are experiments.
+Some are messy. Some are unfinished.
+
+But every one of them taught me something.
