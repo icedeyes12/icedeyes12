@@ -1,85 +1,97 @@
-Hey 
+Hey there 👋
 
 I'm Bani Baskara
 
-A curious builder who enjoys exploring how systems actually work under the hood.
-Most of my projects start as experiments and slowly evolve into tools.
+> builder
+> system tinkerer
+> curious about how things work under the hood
+
+I spend most of my time experimenting with AI systems, automation tools, and backend architectures.
+Many of my repositories start as small technical curiosities that slowly grow into real projects.
 
 ---
 
- Things I Work With
-
-- AI assistants & agent systems
-- Python backend development
-- Linux environments
-- LLM tooling & embeddings
-- Automation and small infrastructure experiments
-
-Sometimes I build things just to understand them better.
-
----
-
- Tech Stack
-
-Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-"Bash" (https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-
-Tools
-
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"HuggingFace" (https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
----
-
-Current Focus
+⚙️ Current Focus
 
 Yuzu Companion
 
-An experimental AI companion system focused on:
+An experimental AI companion system exploring:
 
 - tool-driven architecture
+- modular agent runtime
 - memory systems
-- local + remote model support
-- extensible agent runtime
+- hybrid retrieval (dense + sparse embeddings)
+- local + remote model orchestration
 
 Still evolving.
 
 ---
 
- GitHub Stats
+🧰 Tech I Often Use
 
-"Bani's GitHub stats" (https://github-readme-stats.vercel.app/api?username=icedeyes12&show_icons=true&theme=tokyonight)
+Languages
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=icedeyes12&layout=compact&theme=tokyonight)
+Python • JavaScript • Bash
+
+Environment
+
+Linux • Git • Hugging Face • Docker
+
+Areas I Explore
+
+- LLM agents
+- embeddings & retrieval systems
+- local AI tooling
+- automation pipelines
+- experimental system architecture
 
 ---
 
- Things I Often Experiment With
+📊 GitHub Activity
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=icedeyes12&show_icons=true&theme=tokyonight&hide_border=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=icedeyes12&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+🧠 Things I Like Experimenting With
 
 - reverse SSH tunnels
-- self-hosted AI tooling
-- hybrid retrieval (dense + sparse embeddings)
-- local model deployment
+- self-hosted AI environments
+- distributed tool systems
+- embedding pipelines
+- agent frameworks
 
-Half research, half curiosity.
+Some experiments succeed.
+Some collapse beautifully.
+
+Both are useful.
 
 ---
 
-Contact
+🔭 Current Workspace
+
+OS: Linux
+Editor: nano / Android text editor
+Terminal: where most things happen
+Focus: AI agents + infrastructure experiments
+Coffee: required
+
+---
+
+🌐 Find Me
 
 GitHub: https://github.com/icedeyes12
 Email: banibaskara@gmail.com
 
 ---
 
-Small Note
+📝 Small Note
 
-Most of my repositories are experiments.
-Some are messy. Some are unfinished.
+Most projects here are experiments.
 
-But every one of them taught me something.
+Some are unfinished.
+Some are messy.
+
+But every repository is a record of something learned.
