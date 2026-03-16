@@ -74,6 +74,14 @@ Still evolving. Always.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icedeyes12/icedeyes12/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <div align="center">
   
   ![Footer](./assets/footer.svg)

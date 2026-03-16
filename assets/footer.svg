@@ -1,57 +1,36 @@
 <svg width="1200" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Matching gradient from banner -->
     <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0a0a0f"/>
-      <stop offset="15%" style="stop-color:#1a1a2e"/>
-      <stop offset="50%" style="stop-color:#1e1b4b"/>
-      <stop offset="85%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#0a0a0f"/>
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="15%" stop-color="#1a1a2e"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="85%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
     </linearGradient>
-    
-    <!-- Subtle line pattern -->
-    <pattern id="footerPattern" width="40" height="40" patternUnits="userSpaceOnUse">
-      <circle cx="20" cy="20" r="1" fill="#8b5cf6" opacity="0.2"/>
-    </pattern>
   </defs>
   
-  <!-- Background -->
   <rect width="1200" height="100" fill="url(#footerGrad)"/>
-  <rect width="1200" height="100" fill="url(#footerPattern)"/>
   
-  <!-- Top accent line -->
   <line x1="100" y1="20" x2="1100" y2="20" stroke="#8b5cf6" stroke-width="1" opacity="0.3"/>
   
-  <!-- Center text -->
-  <text x="50%" y="58" 
+  <circle cx="380" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
+  <circle cx="395" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
+  <circle cx="410" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
+  
+  <text x="600" y="56" 
         text-anchor="middle"
-        font-family="JetBrains Mono, Fira Code, monospace"
+        font-family="JetBrains Mono, monospace"
         font-size="14"
         fill="#9ca3af"
         letter-spacing="0.05em">
     built with curiosity, stubbornness & late nights
   </text>
   
-  <!-- Decorative brackets -->
-  <text x="420" y="58" 
-        font-family="JetBrains Mono, monospace"
-        font-size="14"
-        fill="#8b5cf6"
-        opacity="0.6">
-    &lt;
-  </text>
-  <text x="780" y="58" 
-        font-family="JetBrains Mono, monospace"
-        font-size="14"
-        fill="#8b5cf6"
-        opacity="0.6">
-    /&gt;
-  </text>
+  <circle cx="790" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
+  <circle cx="805" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
+  <circle cx="820" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
   
-  <!-- Bottom dots -->
-  <g transform="translate(600, 80)">
-    <circle cx="-20" cy="0" r="2" fill="#8b5cf6" opacity="0.4"/>
-    <circle cx="0" cy="0" r="2" fill="#a78bfa" opacity="0.6"/>
-    <circle cx="20" cy="0" r="2" fill="#c4b5fd" opacity="0.4"/>
-  </g>
+  <circle cx="580" cy="80" r="2" fill="#8b5cf6" opacity="0.4"/>
+  <circle cx="600" cy="80" r="2" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="620" cy="80" r="2" fill="#c4b5fd" opacity="0.4"/>
 </svg>
