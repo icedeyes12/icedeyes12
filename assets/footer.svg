@@ -1,36 +1,16 @@
-<svg width="1200" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+  <rect width="1200" height="100" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="100" fill="url(#g)"/>
   <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0a0a0f"/>
-      <stop offset="15%" stop-color="#1a1a2e"/>
-      <stop offset="50%" stop-color="#1e1b4b"/>
-      <stop offset="85%" stop-color="#1a1a2e"/>
+      <stop offset="50%" stop-color="#161b22"/>
       <stop offset="100%" stop-color="#0a0a0f"/>
     </linearGradient>
   </defs>
-  
-  <rect width="1200" height="100" fill="url(#footerGrad)"/>
-  
-  <line x1="100" y1="20" x2="1100" y2="20" stroke="#8b5cf6" stroke-width="1" opacity="0.3"/>
-  
-  <circle cx="380" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
-  <circle cx="395" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
-  <circle cx="410" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
-  
-  <text x="600" y="56" 
-        text-anchor="middle"
-        font-family="JetBrains Mono, monospace"
-        font-size="14"
-        fill="#9ca3af"
-        letter-spacing="0.05em">
-    built with curiosity, stubbornness & late nights
-  </text>
-  
-  <circle cx="790" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
-  <circle cx="805" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
-  <circle cx="820" cy="50" r="2" fill="#8b5cf6" opacity="0.3"/>
-  
-  <circle cx="580" cy="80" r="2" fill="#8b5cf6" opacity="0.4"/>
-  <circle cx="600" cy="80" r="2" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="620" cy="80" r="2" fill="#c4b5fd" opacity="0.4"/>
+  <line x1="100" y1="25" x2="1100" y2="25" stroke="#8b5cf6" stroke-width="1" opacity="0.4"/>
+  <text x="600" y="60" text-anchor="middle" font-family="monospace" font-size="14" fill="#8b949e">built with curiosity, stubbornness &amp; late nights</text>
+  <circle cx="580" cy="85" r="2" fill="#8b5cf6" opacity="0.5"/>
+  <circle cx="600" cy="85" r="2" fill="#a78bfa" opacity="0.7"/>
+  <circle cx="620" cy="85" r="2" fill="#c4b5fd" opacity="0.5"/>
 </svg>
