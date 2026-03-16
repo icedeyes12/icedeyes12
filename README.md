@@ -14,7 +14,7 @@
 
 # 👋 Bani Baskara
 
-```text
+
 > builder
 > system tinkerer
 > experimenting with AI agents
