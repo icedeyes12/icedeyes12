@@ -6,7 +6,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=600&color=8B5CF6&center=true&vCenter=true&width=600&lines=System+Tinkerer;AI+Agent+Architect;Infrastructure+Experimenter;Terminal+Dweller" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=600&color=8B5CF6&center=true&vCenter=true&width=600&lines=System+Tinkerer;AI+Agent+Architect;Infrastructure+Experimenter;Ternak+Lele+Enjoyer;Terminal+Dweller" />
 </p>
 
 <!-- VISITOR COUNTER -->
