@@ -27,33 +27,20 @@ builder. system tinkerer. experimenting with AI agents.
 mostly working from a terminal.
 ```
 
-I build experimental systems around:
+I explore and observe experimental systems:
 
-- 🤖 **AI agents** — tool-driven architecture, modular runtimes
-- 🧠 **Embeddings & retrieval** — hybrid search, memory systems  
-- ⚙️ **Automation tooling** — infrastructure that actually works
-- 🧪 **Small experiments** — quick prototypes, bold ideas
+| Area | What I Do |
+|------|-----------|
+| AI Agents | Try out tool-driven architectures, see how they behave |
+| Embeddings and Retrieval | Test hybrid search and memory systems |
+| Automation Tooling | Run scripts and pipelines, make sure they work |
+| Experimental Projects | Explore prototypes, give feedback, learn lessons |
+| Misc Experiments | Play around with reverse SSH, self-hosted tooling, local and remote models |
 
-Most repositories here are works in progress. Some evolve into something bigger. Others are just lessons learned.
+Most repositories are experiments I observe or interact with.  
+Some are interesting. Some are confusing. Either way, I learn.  
 
----
-
-## ⚡ Current Project
-
-### [Yuzu Companion](https://github.com/icedeyes12/yuzu-companion)
-
-Experimental AI companion system:
-
-| Component | Status |
-|-----------|--------|
-| Tool-driven architecture | ✅ |
-| Modular agent runtime | ✅ |
-| Memory systems (FSRS + semantic) | ✅ |
-| Hybrid retrieval (dense + sparse) | ✅ |
-| Local + remote model orchestration | ✅ |
-| React frontend with streaming | 🚧 |
-
-Still evolving. Always.
+Mostly pressing buttons and praising for good results 
 
 ---
 
