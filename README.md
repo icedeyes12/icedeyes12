@@ -16,48 +16,51 @@
 
 ---
 
-## About
+icedeyes12
 
-```
-> whoami
-bani baskara
-
-> cat ~/profile.txt
-builder. system tinkerer. experimenting with AI agents.
-mostly working from a terminal.
-```
-
-I explore and observe experimental systems:
-
-| Area | What I Do |
-|------|-----------|
-| AI Agents | Try out tool-driven architectures, see how they behave |
-| Embeddings and Retrieval | Test hybrid search and memory systems |
-| Automation Tooling | Run scripts and pipelines, make sure they work |
-| Experimental Projects | Explore prototypes, give feedback, learn lessons |
-| Misc Experiments | Play around with reverse SSH, self-hosted tooling, local and remote models |
-
-Most repositories are experiments I observe or interact with.  
-Some are interesting. Some are confusing. Either way, I learn.  
-
-Mostly pressing buttons and praising for good results 
+«building strange little systems that slowly became bigger than intended»
 
 ---
 
-## 📌 Featured
+Current Obsessions
 
-<a href="https://github.com/icedeyes12/yuzu-companion">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=icedeyes12&repo=yuzu-companion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa" />
-</a>
+- long-term memory architectures
+- AI orchestration systems
+- retrieval pipelines
+- multimodal interaction
+- streaming UX
+- local-first / self-hosted AI
+- weird human-computer interaction
+- emotionally persistent agents
 
 ---
 
-## 📊 Activity
+Things I Build
 
-<div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=icedeyes12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedeyes12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
-</div>
+Most of my projects start as:
+
+«"this would be funny to prototype"»
+
+and somehow end up involving:
+
+- vector databases
+- async pipelines
+- memory decay systems
+- provider abstractions
+- orchestration layers
+- terminal interfaces
+- frontend rendering problems at 3AM
+
+---
+
+Elsewhere
+
+- GitHub Pages: https://icedeyes12.github.io/
+- Main repo: https://github.com/icedeyes12/yuzu-companion
+
+---
+
+«still debugging the machine and myself»
 
 ---
 
