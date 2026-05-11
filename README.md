@@ -26,10 +26,6 @@ Current Obsessions
 
 - long-term memory architectures
 - AI orchestration systems
-- retrieval pipelines
-- multimodal interaction
-- streaming UX
-- local-first / self-hosted AI
 - weird human-computer interaction
 - emotionally persistent agents
 
