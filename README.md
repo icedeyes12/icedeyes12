@@ -35,24 +35,6 @@ Current Obsessions
 
 ---
 
-Things I Build
-
-Most of my projects start as:
-
-«"this would be funny to prototype"»
-
-and somehow end up involving:
-
-- vector databases
-- async pipelines
-- memory decay systems
-- provider abstractions
-- orchestration layers
-- terminal interfaces
-- frontend rendering problems at 3AM
-
----
-
 Elsewhere
 
 - GitHub Pages: https://icedeyes12.github.io/
